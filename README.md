@@ -16,10 +16,3 @@ The dataset used in this project can be accessed from:
 - 🤖 **Machine Learning Model**: Predicting churn using **CatBoostClassifier**.
 - 📈 **Model Performance Evaluation**: Accuracy, Recall, Precision, F1 Score, AUC.
 
----
-
-## 🛠 Installation & Usage
-To install the required dependencies, run:
-
-```sh
-pip install -r requirements.txt
